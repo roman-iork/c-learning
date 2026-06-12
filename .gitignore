@@ -2,6 +2,7 @@
 sorting
 !sorting/
 Makefile
+string_len
 
 # Prerequisites
 *.d
